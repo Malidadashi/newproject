@@ -14,6 +14,7 @@ const App = () => {
         <WhatGPt3 />
         <Feature />
         <Possibility />
+        <Article />
         <CTA />
         <Blog />
         <Footer />
